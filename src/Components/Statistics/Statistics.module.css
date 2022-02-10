@@ -1,0 +1,13 @@
+.Statistics {
+  width: 200px;
+}
+.item {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+.button {
+  margin-right: 5px;
+  width: 120px;
+  text-transform: capitalize;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
